@@ -1,4 +1,4 @@
-# TarraPirata (OpenRally) GPX to PDF Roadbook Tools
+# OpenRally (TerraPirata) GPX to PDF Roadbook Tools
 
 This repository contains two Python scripts for working with Open Rally GPX Roadbook files and generating rally-style roadbooks in PDF format.
 
