@@ -65,4 +65,5 @@ The script will create `yourfile_waypoint.gpx` in the current directory.
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+See [LICENSE](LICENSE) for details.
